@@ -9,8 +9,8 @@ export default function App() {
     <div>
       <Header/>
       <Menu/>
-      <Footer/>
       <Content/>
+      <Footer/>
     </div>
   )
 }
